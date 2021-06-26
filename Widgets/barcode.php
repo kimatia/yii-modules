@@ -1,0 +1,1 @@
+<?= \barcode\barcode\BarcodeGenerator::widget(); ?>```
